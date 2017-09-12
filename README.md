@@ -8,6 +8,7 @@ Vous pouvez retrouver toutes les informations importantes et utiles du master 1 
 * [Messagerie étudiante](https://webmail.etu.univ-grenoble-alpes.fr)
 * [Emploi du temps](http://redirect.univ-grenoble-alpes.fr/ADE_ETUDIANTS_IM2AG)
 * [Moodle (Cours)](https://im2ag-moodle.e.ujf-grenoble.fr)
+* [Relevé de notes](http://rvn.grenet.fr/uga/)
 
 ## LES COURS
 
@@ -17,6 +18,12 @@ Vous pouvez retrouver toutes les informations importantes et utiles du master 1 
 * Reseaux [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=85)
 * GL
 * BD
+* C TLI [Page non verifié](http://iihm.imag.fr/blanch/m1/tli/)
+
+***
+
+### TIPS
+* Redirection de messagerie : Sur le portail étudiant, clique sur ton nom en haut à droite et ensuite **Paramétrer ma messagerie**
 
 ***
 
