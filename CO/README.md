@@ -3,7 +3,7 @@
 ***
 
 ## Liens
-[Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=204)
+* [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=204)
 
 ***
 
@@ -16,4 +16,3 @@
 ***
 
 ## Annales
-
