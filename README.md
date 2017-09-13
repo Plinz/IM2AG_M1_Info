@@ -9,16 +9,26 @@ Vous pouvez retrouver toutes les informations importantes et utiles du master 1 
 * [Emploi du temps](http://redirect.univ-grenoble-alpes.fr/ADE_ETUDIANTS_IM2AG)
 * [Moodle (Cours)](https://im2ag-moodle.e.ujf-grenoble.fr)
 * [Relevé de notes](http://rvn.grenet.fr/uga/)
+* [Master App](http://master.skysurf.fr/accueil)
+* [Compte SUAPS](https://suaps-mon-compte.univ-grenoble-alpes.fr)
 
 ## LES COURS
 
-* SLPC [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=243)
-* CSE [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=104)
-* CO 
-* Reseaux [Page Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=85)
-* GL
-* BD
-* C TLI [Page non verifié](http://iihm.imag.fr/blanch/m1/tli/)
+* [Sémantique des langages de programmation et compilation (SLPC)](SLPC/README.md)
+  - [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=243)  
+* [Conception des systèmes d'exploitation et programmation concurrente (CSE)](CSE/README.md)
+  - [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=104)
+* [Conception et programmation par objets (CO)](CO/README.md)
+  - [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=204)
+* [Introduction aux réseaux](Reseaux/README.md)
+  - [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=85)
+* [Génie logiciel (GL)](GL/README.md)
+  - [Site](http://lig-membres.imag.fr/lalanda/lectures/lectures.php)
+* [Base de données (BD)](BD/README.md)
+  - [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=67)
+* [Technique des logiciels interactifs (TLI)](TLI/README.md)
+  - [Moodle](https://im2ag-moodle.e.ujf-grenoble.fr/course/view.php?id=264)
+  - [Site](http://iihm.imag.fr/blanch/ens/2016-2017/M1/TLI/)
 
 ***
 
