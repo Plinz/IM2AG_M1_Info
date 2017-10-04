@@ -3,7 +3,7 @@
 ***
 
 ## Liens
-[Site](http://lig-membres.imag.fr/lalanda/lectures/lectures.php)
+* [Site](http://lig-membres.imag.fr/lalanda/lectures/lectures.php)
 
 ***
 
@@ -16,4 +16,3 @@
 ***
 
 ## Annales
-
