@@ -41,4 +41,3 @@ Vous pouvez retrouver toutes les informations importantes et utiles du master 1 
 ## Contributions
 
 Si vous souhaitez ajouter des informations vous pouvez **forker** ce dépôt puis créer une nouvelle [**pull request**](https://github.com/Plinz/IM2AG_M1_Info/compare), ou bien ouvrir une nouvelle [**issue**](https://github.com/Plinz/IM2AG_M1_Info/issues/new) pour proposer ou demander d'autres informations à ajouter.
-
